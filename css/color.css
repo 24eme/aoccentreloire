@@ -1,0 +1,37 @@
+.bg-dark{ background-color: #b5441e !important; }
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #b5441e;
+    border-color: #fff;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #b5441e;
+    border-color: #b5441e;
+}
+
+#navbarHeader .text-muted {
+    color: #ec95cc !important;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: #1c6f70;
+    border-color: #1c6f70;
+}
+
+.btn-secondary:hover {
+    color: #fff;
+    background-color: #1c6f70;
+    border-color: #fff;
+}
+
+h5 {
+    min-height: 54px;
+}
+
+#document {
+    min-height: 550px;
+}
