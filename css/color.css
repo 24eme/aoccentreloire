@@ -1,4 +1,6 @@
-.bg-dark{ background-color: #b5441e !important; }
+.bg-dark{
+    background-color: #b5441e !important;
+}
 
 .btn-primary:hover {
     color: #fff;
@@ -13,7 +15,7 @@
 }
 
 #navbarHeader .text-muted {
-    color: #ec95cc !important;
+    color: #dddddd !important;
 }
 
 .btn-secondary {
