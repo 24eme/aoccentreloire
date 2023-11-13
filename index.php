@@ -3,13 +3,17 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="La plateforme de télédéclarations des AOC Centre Loire ">
+    <meta name="description" content="La plateforme de télédéclarations des AOC Centre Loire">
     <meta name="author" content="AOC Centre Loire & 24eme">
 
-    <title>OpenODG : AOC Centre Loire</title>
+    <title>La plateforme de télédéclarations des AOC Centre Loire</title>
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="/css/bootstrap-4.0.0.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
     <link rel="stylesheet" href="/css/color.css"/>
+
+    <link rel="shortcut icon" type="image/x-icon" href="/images/favico_centre.ico" />
+    <link rel="icon" type="image/x-icon" href="/images/favico_centre.ico" />
+    <link rel="icon" type="image/png" href="/images/favico_centre.png" />
   </head>
   <body>
 
