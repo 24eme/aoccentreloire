@@ -26,7 +26,7 @@ $aoc_contacts = array(
     ),
     "oivc" => array(
         "title" => "Organisme d'Inspection des Vins du Centre",
-        "adresse" => "9 route de Chavignol 18300 Sancerre",
+        "adresse" => "9 rue Creuse 18300 Sancerre",
         "contact" => "0248542988",
         "logo" => "oivc.png",
     ),
