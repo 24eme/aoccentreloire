@@ -44,7 +44,7 @@ $aoc_contacts = array(
     ),
     "sancerre" => array(
         "title" => "Union Viticole Sancerroise",
-        "adresse" => "9 route de Chavignol 18300 Sancerre",
+        "adresse" => "9 rue Creuse 18300 Sancerre",
         "contact" => "02 48 78 51 03 / contactuvs@sancerreaop.fr",
         "logo" => "sancerre.png",
     ),
